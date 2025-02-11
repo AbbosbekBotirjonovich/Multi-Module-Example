@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/app1/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/app1/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/app1/build" />
+      <excludeFolder url="file://$MODULE_DIR$/core/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/core/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/core/build" />
+      <excludeFolder url="file://$MODULE_DIR$/app/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/app/build" />
+      <excludeFolder url="file://$MODULE_DIR$/config/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/config/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/config/build" />
+      <excludeFolder url="file://$MODULE_DIR$/data/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/data/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/data/build" />
+      <excludeFolder url="file://$MODULE_DIR$/data/source/remote/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/data/source/remote/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/data/source/remote/build" />
+      <excludeFolder url="file://$MODULE_DIR$/my_app/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/my_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/my_app/build" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/data/source/local/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/data/source/local/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/data/source/local/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Dart SDK" level="project" />
+    <orderEntry type="library" name="Dart Packages" level="project" />
+  </component>
+</module>
